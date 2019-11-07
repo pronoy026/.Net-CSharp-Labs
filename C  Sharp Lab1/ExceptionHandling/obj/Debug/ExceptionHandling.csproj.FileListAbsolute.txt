@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\obj\Debug\ExceptionHandling.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

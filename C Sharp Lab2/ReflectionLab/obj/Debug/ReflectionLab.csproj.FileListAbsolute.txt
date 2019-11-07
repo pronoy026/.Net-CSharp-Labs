@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\bin\Debug\ReflectionLab.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\bin\Debug\ReflectionLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\bin\Debug\ReflectionLab.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\obj\Debug\ReflectionLab.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\obj\Debug\ReflectionLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ReflectionLab\obj\Debug\ReflectionLab.pdb

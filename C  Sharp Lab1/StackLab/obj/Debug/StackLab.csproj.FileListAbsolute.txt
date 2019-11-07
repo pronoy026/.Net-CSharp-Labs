@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\bin\Debug\StackLab.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\bin\Debug\StackLab.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\bin\Debug\StackLab.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\obj\Debug\StackLab.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\obj\Debug\StackLab.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\StackLab\obj\Debug\StackLab.pdb

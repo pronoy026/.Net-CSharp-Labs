@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\QueryExpression\bin\Debug\QueryExpression.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\QueryExpression\bin\Debug\QueryExpression.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\QueryExpression\bin\Debug\QueryExpression.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\QueryExpression\obj\Debug\QueryExpression.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\QueryExpression\obj\Debug\QueryExpression.pdb

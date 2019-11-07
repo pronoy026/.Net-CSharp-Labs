@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\bin\Debug\GenericListLAB.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\bin\Debug\GenericListLAB.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\bin\Debug\GenericListLAB.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\obj\Debug\GenericListLAB.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\obj\Debug\GenericListLAB.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\GenericListLAB\obj\Debug\GenericListLAB.pdb

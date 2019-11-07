@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\bin\Debug\ProcessLab.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\bin\Debug\ProcessLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\bin\Debug\ProcessLab.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\obj\Debug\ProcessLab.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\obj\Debug\ProcessLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ProcessLab\obj\Debug\ProcessLab.pdb

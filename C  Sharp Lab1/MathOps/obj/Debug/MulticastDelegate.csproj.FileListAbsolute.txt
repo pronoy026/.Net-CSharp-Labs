@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\bin\Debug\MathOps.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\bin\Debug\MathOps.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\bin\Debug\MathOps.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\obj\Debug\MulticastDelegate.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\obj\Debug\MathOps.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\MathOps\obj\Debug\MathOps.pdb

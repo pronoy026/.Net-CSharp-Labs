@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\bin\Debug\LINQLab.exe.config
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\bin\Debug\LINQLab.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\bin\Debug\LINQLab.pdb
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\obj\Debug\LINQLab.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\obj\Debug\LINQLab.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\LINQLab\obj\Debug\LINQLab.pdb

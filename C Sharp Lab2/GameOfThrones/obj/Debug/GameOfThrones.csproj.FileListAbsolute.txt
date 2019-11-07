@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\bin\Debug\GameOfThrones.exe.config
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\bin\Debug\GameOfThrones.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\bin\Debug\GameOfThrones.pdb
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\obj\Debug\GameOfThrones.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\obj\Debug\GameOfThrones.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\GameOfThrones\obj\Debug\GameOfThrones.pdb

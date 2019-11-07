@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\bin\Debug\CSharp3NewFeatures.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\CSharp3NewFeatures\obj\Debug\CSharp3NewFeatures.pdb

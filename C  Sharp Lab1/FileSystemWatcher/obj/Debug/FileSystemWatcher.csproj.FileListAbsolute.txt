@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\bin\Debug\FileSystemWatcher.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\bin\Debug\FileSystemWatcher.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\obj\Debug\FileSystemWatcher.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\obj\Debug\FileSystemWatcher.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileSystemWatcher\obj\Debug\FileSystemWatcher.pdb

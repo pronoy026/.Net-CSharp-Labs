@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumWeekDays\bin\Debug\EnumWeekDays.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumWeekDays\bin\Debug\EnumWeekDays.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumWeekDays\bin\Debug\EnumWeekDays.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumWeekDays\obj\Debug\EnumWeekDays.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumWeekDays\obj\Debug\EnumWeekDays.pdb

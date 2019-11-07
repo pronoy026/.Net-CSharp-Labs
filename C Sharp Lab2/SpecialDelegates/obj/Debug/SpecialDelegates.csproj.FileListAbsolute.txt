@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\bin\Debug\SpecialDelegates.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\bin\Debug\SpecialDelegates.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\bin\Debug\SpecialDelegates.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\obj\Debug\SpecialDelegates.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\obj\Debug\SpecialDelegates.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\SpecialDelegates\obj\Debug\SpecialDelegates.pdb

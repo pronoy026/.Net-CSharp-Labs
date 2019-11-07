@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\bin\Debug\LAB1Assignment.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\bin\Debug\LAB1Assignment.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\bin\Debug\LAB1Assignment.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\obj\Debug\LAB1Assignment.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\obj\Debug\LAB1Assignment.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\LAB1Assignment\obj\Debug\LAB1Assignment.pdb

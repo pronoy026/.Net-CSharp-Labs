@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\bin\Debug\ThreadLab.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\bin\Debug\ThreadLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\bin\Debug\ThreadLab.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\obj\Debug\ThreadLab.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\obj\Debug\ThreadLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\ThreadLab\obj\Debug\ThreadLab.pdb

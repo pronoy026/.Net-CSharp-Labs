@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\bin\Debug\SerializationLab.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\bin\Debug\SerializationLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\bin\Debug\SerializationLab.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\obj\Debug\SerializationLab.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\obj\Debug\SerializationLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\SerializationLab\obj\Debug\SerializationLab.pdb

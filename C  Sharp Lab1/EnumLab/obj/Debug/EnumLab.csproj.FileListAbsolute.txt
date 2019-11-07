@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\bin\Debug\EnumLab.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\bin\Debug\EnumLab.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\bin\Debug\EnumLab.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\obj\Debug\EnumLab.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\obj\Debug\EnumLab.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\EnumLab\obj\Debug\EnumLab.pdb

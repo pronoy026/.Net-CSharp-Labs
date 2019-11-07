@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\bin\Debug\AttributesLab.exe.config
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\bin\Debug\AttributesLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\bin\Debug\AttributesLab.pdb
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\obj\Debug\AttributesLab.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\obj\Debug\AttributesLab.exe
+C:\Users\Hp\source\repos\C Sharp LAB@\AttributesLab\obj\Debug\AttributesLab.pdb

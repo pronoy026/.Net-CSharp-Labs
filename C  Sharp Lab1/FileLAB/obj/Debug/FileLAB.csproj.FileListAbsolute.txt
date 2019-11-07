@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\bin\Debug\FileLAB.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\bin\Debug\FileLAB.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\bin\Debug\FileLAB.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\obj\Debug\FileLAB.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\obj\Debug\FileLAB.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileLAB\obj\Debug\FileLAB.csprojAssemblyReference.cache

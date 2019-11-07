@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ProductOfANo\bin\Debug\ProductOfANo.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ProductOfANo\bin\Debug\ProductOfANo.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ProductOfANo\bin\Debug\ProductOfANo.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ProductOfANo\obj\Debug\ProductOfANo.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\ProductOfANo\obj\Debug\ProductOfANo.pdb

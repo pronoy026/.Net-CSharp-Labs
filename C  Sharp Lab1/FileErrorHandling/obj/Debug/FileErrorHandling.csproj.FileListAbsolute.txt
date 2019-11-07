@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\bin\Debug\FileErrorHandling.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\bin\Debug\FileErrorHandling.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\bin\Debug\FileErrorHandling.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\obj\Debug\FileErrorHandling.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\obj\Debug\FileErrorHandling.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\FileErrorHandling\obj\Debug\FileErrorHandling.pdb

@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\Hp\Desktop\.NET Training\C  Sharp Lab\HelloWorld\obj\Debug\HelloWorld.pdb

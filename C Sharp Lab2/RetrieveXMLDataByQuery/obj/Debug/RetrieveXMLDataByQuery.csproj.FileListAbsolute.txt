@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\RetrieveXMLDataByQuery\bin\Debug\RetrieveXMLDataByQuery.exe.config
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\RetrieveXMLDataByQuery\bin\Debug\RetrieveXMLDataByQuery.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\RetrieveXMLDataByQuery\bin\Debug\RetrieveXMLDataByQuery.pdb
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\RetrieveXMLDataByQuery\obj\Debug\RetrieveXMLDataByQuery.exe
+C:\Users\Hp\Desktop\.NET Training\C Sharp LAB2\RetrieveXMLDataByQuery\obj\Debug\RetrieveXMLDataByQuery.pdb
